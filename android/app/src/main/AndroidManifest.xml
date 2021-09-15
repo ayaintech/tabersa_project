@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.tabersa_project">
    <application
-        android:label="tabersa_project"
+        android:label="Tabersa"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
